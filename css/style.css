@@ -9,7 +9,7 @@
 body{
   font-family: 'Inter', sans-serif;
 
-  background-image: url(assets/images/background-image.jpg);
+  background-image: url(./assets/images/background-image.jpg);
 }
 
 .professional-photo{
