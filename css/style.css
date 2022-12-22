@@ -9,7 +9,7 @@
 body{
   font-family: 'Inter', sans-serif;
 
-  background-image: url(background-image.jpg);
+  background-image: url(../assets/background-image.jpg);
 }
 
 .professional-photo{
@@ -97,7 +97,7 @@ body{
   display: flex;
   flex-direction: column;
   gap: 25px;
-  padding-bottom: 3.75rem;
+  margin-bottom: 2rem;
 }
 
 .icon-contact{
